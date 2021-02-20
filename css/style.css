@@ -272,3 +272,49 @@ h2.title {
     text-align: center;
     line-height: 43px;
 }
+
+.webinar {
+    min-height: 515px;
+    padding-top: 82px;
+    padding-bottom: 64px;
+}
+
+.webinar .webinar_img {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 37px;
+}
+
+.webinar .webinar_text {
+    display: flex;
+    justify-content: center;
+    min-height: 27px;
+    margin-bottom: 30px;
+    color: #252525;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 12px;
+}
+
+.webinar .webinar_data {
+    margin-bottom: 25px;
+    min-height: 36px;
+    color: #299cbd;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 12px;
+    text-align: center;
+}
+
+.webinar .webinar_descr {
+    display: flex;
+    justify-content: center;
+    min-height: 27px;
+    color: #252525;
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 20px;
+}
