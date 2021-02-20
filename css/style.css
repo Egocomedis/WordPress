@@ -318,3 +318,24 @@ h2.title {
     font-weight: 300;
     line-height: 20px;
 }
+
+.contacts {
+    min-height: 166px;
+    background-color: #1a1a1a;
+    padding-top: 61px;
+    padding-bottom: 69px;
+}
+
+.contacts .contacts_descr {
+    margin: 0 auto;
+    width: 377px;
+    height: 36px;
+    text-align: center;
+}
+
+.contacts .contacts_descr a {
+    color: #888888;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+}
